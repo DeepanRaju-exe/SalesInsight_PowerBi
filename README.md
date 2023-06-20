@@ -1,5 +1,6 @@
 # SalesInsight_PowerBi
-https://w7.pngwing.com/pngs/713/815/png-transparent-whatsapp-iphone-whatsapp-logo-monochrome-black-thumbnail.png
+![image](https://github.com/DeepanRaju-exe/SalesInsight_PowerBi/assets/68472546/7174fc0f-5379-4c79-a2ed-4255d5c9607e)
+
 
 Power bi dashboard to see sales insight of Atliq Hardware
 
