@@ -16,5 +16,5 @@ if you have power bi installed in your pc you can donwload the .pbix file
 Else please open the weblink in any browser : https://app.powerbi.com/view?r=eyJrIjoiNDA5MmVkMWYtOTdlMC00YjUyLWEyZTktZjQ2Njg2ZjUyZThkIiwidCI6IjQ3NzJkNmQyLWYwNWUtNGY4NS1hOWM5LTk1YWI3MGY5NGU3YiJ9
 
 
-
+<iframe title="Report Section" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiNDA5MmVkMWYtOTdlMC00YjUyLWEyZTktZjQ2Njg2ZjUyZThkIiwidCI6IjQ3NzJkNmQyLWYwNWUtNGY4NS1hOWM5LTk1YWI3MGY5NGU3YiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
