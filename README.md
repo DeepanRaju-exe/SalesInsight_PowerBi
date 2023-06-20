@@ -1,5 +1,6 @@
 # SalesInsight_PowerBi
-![image](https://github.com/DeepanRaju-exe/SalesInsight_PowerBi/assets/68472546/7174fc0f-5379-4c79-a2ed-4255d5c9607e)
+![image](https://github.com/DeepanRaju-exe/SalesInsight_PowerBi/assets/68472546/b89048a6-40c3-41f1-821a-dc74917d6457)
+
 
 
 Power bi dashboard to see sales insight of Atliq Hardware
